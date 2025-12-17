@@ -44,12 +44,12 @@
 
 ## GitHub Stats
 <div align="center">
-<!-- <img 
+<img 
   width="380"
   src="https://github-readme-stats.vercel.app/api?username=So-Myoung&show_icons=true&theme=transparent&count_private=true"
 />
   <br/>
-  <br/> -->
+  <br/>
   
 <picture>
   <source media="(prefers-color-scheme: dark)" 
